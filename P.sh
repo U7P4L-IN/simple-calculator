@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
+##   Inphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	U7P4L IN 
 ##   Version 	: 	2.3.4
 ##   Github 	: 	
