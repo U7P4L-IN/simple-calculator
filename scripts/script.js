@@ -43,7 +43,7 @@ function liveScreen(enteredValue) {
   res.value += enteredValue;
 }
 
-//adding event handler on the document to handle keyboard inputs
+//adding event handler on the document to handle keyboard inputs to git
 document.addEventListener("keydown", keyboardInputHandler);
 
 //function to handle keyboard inputs
